@@ -1,0 +1,8 @@
+[package]
+name = "just_some_queues"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+linked_hash_set = "0.1.4"
+thiserror = "1.0.57"
